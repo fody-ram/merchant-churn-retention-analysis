@@ -1,0 +1,15 @@
+# Large files to ignore
+*.pbix
+*.xlsx
+data/online_retail_II.xlsx
+data/transactions_clean.csv
+
+# Temporary files
+__pycache__/
+.vscode/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
