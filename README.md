@@ -96,7 +96,7 @@ The interactive Power BI dashboard consists of **6 pages**:
 **Fadwa Ramadan Ali Hassan**  
 Data Analyst | Business Intelligence Specialist
 
-- LinkedIn | GitHub | Email: Fadram2000@gmail.com
+- [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
